@@ -105,4 +105,4 @@ Ready to run the pipeline? Lets go. NVIDIA DALI does image decompression and aug
 ![image](https://user-images.githubusercontent.com/69092782/201652778-f57ade11-f28d-4534-9f59-ca1c9c65fbdc.png)
 
 ## Acknowledgments
-* Adolf Hohl, NVIDIA
+* Adolf Hohl
