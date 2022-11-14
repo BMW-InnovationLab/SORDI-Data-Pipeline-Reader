@@ -106,3 +106,5 @@ Ready to run the pipeline? Lets go. NVIDIA DALI does image decompression and aug
 
 ## Acknowledgments
 * Adolf Hohl
+* Ziad Saoud, BMW Group TechOffice MUNICH
+* Chafic Abou Akar, BMW Group TechOffice MUNICH
