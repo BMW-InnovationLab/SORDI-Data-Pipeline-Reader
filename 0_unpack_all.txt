@@ -1,6 +1,6 @@
 #unpack all SORDI zips in a folder
 
-for i in *.zip; do unzip $i; done
+for i in *.zip; do unzip "$i"; done
 
 #rm -rf *zip
 
