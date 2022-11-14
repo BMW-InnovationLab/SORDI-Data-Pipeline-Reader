@@ -19,7 +19,7 @@ Sample code to consume the COCO style SORDI with NVIDIA DALI Pipeline is given a
 Open a Terminal in the SORDI folder and excute the following command to unzip. 
 
 ```sh
-for i in *.zip; do unzip $i; done
+for i in *.zip; do unzip "$i"; done
 ```
 
 Delete zip files using the following command.
